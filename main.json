@@ -1,36 +1,36 @@
 [
   {
-    "id":1 ,"product":"category":"Headband", "price":"₱100.15", "picture":"img/headband.jpg"
+    "id":1 ,"product":"Headband", "price":"₱100.15", "picture":"img/headband.jpg"
   },
   {
-    "id":2, "product":"category":"Earings", "price":"₱1,000.15", "picture":"img/earings.jpg"
+    "id":2, "product":"Earings", "price":"₱1,000.15", "picture":"img/earings.jpg"
   },
   {
-    "id":3, "product":"category":"Necklace", "price":"₱1,000.15", "picture":"img/necklace.jpg"
+    "id":3, "product":"Necklace", "price":"₱1,000.15", "picture":"img/necklace.jpg"
   },
   {
-    "id":4, "product":"category":"Watch", "price":"₱1,500.15", "picture":"img/watch.jpg"
+    "id":4, "product":"Watch", "price":"₱1,500.15", "picture":"img/watch.jpg"
   },
   {
-    "id":5, "product":"category":"Electronics", "price":"₱35,000", "picture":"resources/images/product_05.jpg"
+    "id":5, "product":"Blush On", "price":"₱150.15", "picture":"img/blushon.jpg"
   },
   {
-    "id":6, "product":"HOME OFFICE TABLE", "category":"Furnitures", "price":"₱500", "picture":"img/blushon.jpg"
+    "id":6, "product":"Furnitures", "price":"₱500", "picture":"img/blushon.jpg"
   },
   {
-    "id":7, "product":"DISH RACK STORAGE", "category":"Furnitures", "price":"₱625", "picture":"resources/images/product_07.jpg"
+    "id":7, "product":"Eyeliner", "price":"₱100.15", "picture":"img/eyeliner.jpg"
   },
   {
-    "id":8, "product":"STOOL MINI CHAIR", "category":"Furnitures", "price":"₱240", "picture":"resources/images/product_08.jpg"
+    "id":8, "product":"Make up", "price":"₱300.15", "picture":"img/makeup.jpg"
   },
   {
-    "id":9, "product":"TV RACK CABINET", "category":"Furnitures", "price":"₱2,099", "picture":"resources/images/product_09.jpg"
+    "id":9, "product":"Foundation", "price":"₱250.15", "picture":"img/foundation.jpg"
   },
   {
-    "id":10, "product":"SMALL ROUND COFFEE TABLE", "category":"Furnitures", "price":"₱321", "picture":"resources/images/product_10.jpg"
+    "id":10, "product":"Eyeglass", "price":"₱100.15", "picture":"rimg/eyeglass.jpg"
   },
   {
-    "id":11, "product":"V6 MINI DRIVING LIGHT", "category":"Motors", "price":"₱850", "picture":"resources/images/product_11.jpg"
+    "id":11, "product":"Eyeglass", "price":"₱100.15", "picture":"rimg/eyeglass1.jpg"
   },
   {
     "id":12, "product":"PIAA DUAL HORN", "category":"Motors", "price":"700", "picture":"resources/images/product_12.jpg"
