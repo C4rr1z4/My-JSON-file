@@ -39,28 +39,28 @@
     "id":13, "product":"Eyeglass", "price":"₱100.15", "picture":"img/eyeglass3.jpg"
   },
   {
-    "id":14, "product":"TOP 1 OIL 1L", "category":"Motors", "price":"₱350", "picture":"resources/images/product_14.jpg"
+    "id":14, "product":"Dress", "price":"₱450.15", "picture":"img/dress.jpg"
   },
   {
-    "id":15, "product":"28MM KEIHIN CARB", "category":"Motors", "price":"₱1,250", "picture":"resources/images/product_15.jpg"
+    "id":15, "product":"Jacket", "price":"₱300.15", "picture":"img/jacket.jpg"
   },
   {
-    "id":16, "product":"JEANS FOR MEN", "category":"Apparels", "price":"₱550", "picture":"resources/images/product_16.jpg"
+    "id":16, "product":"Pants", "price":"₱300.15", "picture":"img/pants.jpg"
   },
   {
-    "id":17, "product":"CLASSIC COAT FOR MEN", "category":"Apparels", "price":"₱1,250", "picture":"resources/images/product_17.jpg"
+    "id":17, "product":"T'shirt", "price":"₱200.15", "picture":"img/thirt.jpg"
   },
   {
-    "id":17, "product":"MEN'S MINIMALIST TSHIRT", "category":"Apparels", "price":"₱350", "picture":"resources/images/product_18.jpg"
+    "id":17, "product":"Boots Shoes", "price":"₱1000.15", "picture":"img/boots.jpg"
   },
   {
-    "id":19, "product":"TSHIRT FOR WOMEN", "category":"Apparels", "price":"₱450", "picture":"resources/images/product_19.jpg"
+    "id":19, "product":"Flat Shoes", "price":"₱300.15", "picture":"img/flatshoes.jpg"
   },
   {
-    "id":20, "product":"DRESS FOR WOMEN", "category":"Apparels", "price":"₱1,500", "picture":"resources/images/product_20.jpg"
+    "id":20, "product":"Sleeper", "price":"₱100.15", "picture":"img/sleeper.jpg"
   },
   {
-    "id":21, "product":"ENERVON MULTI-VITAMINS", "category":"Health", "price":"₱400", "picture":"resources/images/product_21.jpg"
+    "id":21, "product":"Shoes", "price":"₱300.15", "picture":"img/shoes.jpg"
   },
   {
     "id":22, "product":"CENTRUM ADVANCE", "category":"Health", "price":"₱550", "picture":"resources/images/product_22.jpg"
