@@ -1,21 +1,21 @@
 [
   {
-    "id":1 ,"product":"HP 14 - CK018S", "category":"Electronics", "price":"₱25,000", "picture":"resources/images/product_01.jpg"
+    "id":1 ,"product":"category":"Headband", "price":"₱100.15", "picture":"img/headband.jpg"
   },
   {
-    "id":2, "product":"XIAOMI 9 PRO 128GB", "category":"Electronics", "price":"₱9,500", "picture":"resources/images/product_02.jpg"
+    "id":2, "product":"category":"Earings", "price":"₱1,000.15", "picture":"img/earings.jpg"
   },
   {
-    "id":3, "product":"2TB SANDISK BACKUP PRO", "category":"Electronics", "price":"₱3,500", "picture":"resources/images/product_03.jpg"
+    "id":3, "product":"category":"Necklace", "price":"₱1,000.15", "picture":"img/necklace.jpg"
   },
   {
-    "id":4, "product":"BOSE HI-FI SPEAKER", "category":"Electronics", "price":"₱1,500", "picture":"resources/images/product_04.jpg"
+    "id":4, "product":"category":"Watch", "price":"₱1,500.15", "picture":"img/watch.jpg"
   },
   {
-    "id":5, "product":"LG 50' CURVE TV", "category":"Electronics", "price":"₱35,000", "picture":"resources/images/product_05.jpg"
+    "id":5, "product":"category":"Electronics", "price":"₱35,000", "picture":"resources/images/product_05.jpg"
   },
   {
-    "id":6, "product":"HOME OFFICE TABLE", "category":"Furnitures", "price":"₱500", "picture":"resources/images/product_06.jpg"
+    "id":6, "product":"HOME OFFICE TABLE", "category":"Furnitures", "price":"₱500", "picture":"img/blushon.jpg"
   },
   {
     "id":7, "product":"DISH RACK STORAGE", "category":"Furnitures", "price":"₱625", "picture":"resources/images/product_07.jpg"
