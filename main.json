@@ -27,16 +27,16 @@
     "id":9, "product":"Foundation", "price":"₱250.15", "picture":"img/foundation.jpg"
   },
   {
-    "id":10, "product":"Eyeglass", "price":"₱100.15", "picture":"rimg/eyeglass.jpg"
+    "id":10, "product":"Eyeglass", "price":"₱100.15", "picture":"img/eyeglass.jpg"
   },
   {
-    "id":11, "product":"Eyeglass", "price":"₱100.15", "picture":"rimg/eyeglass1.jpg"
+    "id":11, "product":"Eyeglass", "price":"₱100.15", "picture":"img/eyeglass1.jpg"
   },
   {
-    "id":12, "product":"PIAA DUAL HORN", "category":"Motors", "price":"700", "picture":"resources/images/product_12.jpg"
+    "id":12, "product":"Eyeglass", "price":"₱100.15", "picture":"img/eyeglass2.jpg"
   },
   {
-    "id":13, "product":"TWO WAY ALARM SYSTEM", "category":"Motors", "price":"₱600", "picture":"resources/images/product_13.jpg"
+    "id":13, "product":"Eyeglass", "price":"₱100.15", "picture":"img/eyeglass3.jpg"
   },
   {
     "id":14, "product":"TOP 1 OIL 1L", "category":"Motors", "price":"₱350", "picture":"resources/images/product_14.jpg"
