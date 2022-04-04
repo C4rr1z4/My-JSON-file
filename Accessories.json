@@ -1,0 +1,14 @@
+[
+  {
+    "id":1 ,"product":"Headband", "price":"₱100.15", "picture":"img/headband.jpg"
+  },
+  {
+    "id":2, "product":"Earings", "price":"₱1,000.15", "picture":"img/earings.jpg"
+  },
+  {
+    "id":3, "product":"Necklace", "price":"₱1,000.15", "picture":"img/necklace.jpg"
+  },
+  {
+    "id":4, "product":"Watch", "price":"₱1,500.15", "picture":"img/watch.jpg"
+  }
+]
