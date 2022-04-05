@@ -1,0 +1,14 @@
+[
+  {
+    "id":14, "product":"Dress", "price":"₱450.15", "picture":"img/dress.jpg"
+  },
+  {
+    "id":15, "product":"Jacket", "price":"₱300.15", "picture":"img/jacket.jpg"
+  },
+  {
+    "id":16, "product":"Pants", "price":"₱300.15", "picture":"img/pants.jpg"
+  },
+  {
+    "id":17, "product":"T'shirt", "price":"₱200.15", "picture":"img/thirt.jpg"
+  }
+]
