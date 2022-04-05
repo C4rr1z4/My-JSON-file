@@ -1,0 +1,14 @@
+[
+   {
+    "id":5, "product":"Blush On", "price":"₱150.15", "picture":"img/blushon.jpg"
+  },
+  {
+    "id":6, "product":"Furnitures", "price":"₱500", "picture":"img/blushon.jpg"
+  },
+  {
+    "id":7, "product":"Eyeliner", "price":"₱100.15", "picture":"img/eyeliner.jpg"
+  },
+  {
+    "id":8, "product":"Make up", "price":"₱300.15", "picture":"img/makeup.jpg"
+  }
+]
