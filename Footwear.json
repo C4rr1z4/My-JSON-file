@@ -1,0 +1,14 @@
+[
+   {
+    "id":17, "product":"Boots Shoes", "price":"₱1000.15", "picture":"img/boots.jpg"
+  },
+  {
+    "id":19, "product":"Flat Shoes", "price":"₱300.15", "picture":"img/flatshoes.jpg"
+  },
+  {
+    "id":20, "product":"Sleeper", "price":"₱100.15", "picture":"img/sleeper.jpg"
+  },
+  {
+    "id":21, "product":"Shoes", "price":"₱300.15", "picture":"img/shoes.jpg"
+  }
+]
