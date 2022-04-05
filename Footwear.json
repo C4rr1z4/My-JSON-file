@@ -10,14 +10,5 @@
   },
   {
     "id":21, "product":"Shoes", "price":"₱300.15", "picture":"img/shoes.jpg"
-  },
-  {
-    "id":21, "product":"Shoes", "price":"₱300.15", "picture":"img/shoes2.jpg"
-  },
-  {
-    "id":21, "product":"Shoes", "price":"₱300.15", "picture":"img/shoes3.jpg"
-  },
-  {
-    "id":21, "product":"Shoes", "price":"₱300.15", "picture":"img/shoes4.jpg"
   }
 ]
