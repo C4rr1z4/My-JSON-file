@@ -1,0 +1,14 @@
+[
+   {
+    "id":11, "product":"Eyeglass", "price":"₱100.15", "picture":"img/eyeglass1.jpg"
+  },
+  {
+    "id":12, "product":"Eyeglass", "price":"₱100.15", "picture":"img/eyeglass2.jpg"
+  },
+  {
+    "id":13, "product":"Eyeglass", "price":"₱100.15", "picture":"img/eyeglass3.jpg"
+  },
+  {
+    "id":14, "product":"Dress", "price":"₱450.15", "picture":"img/dress.jpg"
+  }
+]
