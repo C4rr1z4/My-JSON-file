@@ -61,17 +61,5 @@
   },
   {
     "id":21, "product":"Shoes", "price":"₱300.15", "picture":"img/shoes.jpg"
-  },
-  {
-    "id":22, "product":"CENTRUM ADVANCE", "category":"Health", "price":"₱550", "picture":"resources/images/product_22.jpg"
-  },
-  {
-    "id":23, "product":"VIRGIN COCONUT OIL", "category":"Health", "price":"₱350", "picture":"resources/images/product_23.jpg"
-  },
-  {
-    "id":24, "product":"DIABETISOL", "category":"Health", "price":"₱670", "picture":"resources/images/product_24.jpg"
-  },
-  {
-    "id":25, "product":"LIVERAIDE CAPSUL", "category":"Health", "price":"₱480", "picture":"resources/images/product_25.jpg"
-  }
+  } 
 ]
